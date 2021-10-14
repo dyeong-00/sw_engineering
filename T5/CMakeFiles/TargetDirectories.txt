@@ -1,0 +1,3 @@
+/home/sun/sw_engineering/T5/CMakeFiles/rebuild_cache.dir
+/home/sun/sw_engineering/T5/CMakeFiles/edit_cache.dir
+/home/sun/sw_engineering/T5/CMakeFiles/prog.dir
